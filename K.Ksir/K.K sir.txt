@@ -1,0 +1,31 @@
+most uneqe part of python is program flow;
+Unique and easy style
+thre iis no curlybress in python {}
+
+Emax is the most power full IDE for Python
+
+1>Conditional code Execution
+ if keyword starts condition
+ A: ends the condition 
+ex:
+num = 5
+if num % 2 == 0:
+	print("Number is Even")
+else:
+	print("Number is odd")
+
+we have AND and OR operator 
+ex 
+if a>10 and b<43: it will chack both the condition 
+if a>44 of b<2: it will chack only one qustion 
+
+for Syntax
+	for i in range (number):
+
+while syntax
+
+	i = 10 --->initialization
+	while i>=0:  --->condition 
+		print(i)
+		i -= 0 --->increment and decrement 
+
